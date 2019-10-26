@@ -416,14 +416,14 @@ div.wrapper-content aside.widgets .follow ul li > a {
   font-size: 14px;
 }
 
-div.wrapper-content aside.widgets .follow span {
+div.wrapper-content aside.widgets .follow .find-friend span {
   margin-top: 5px;
   display: flex;
   align-items: center;
   color: #3bb9e3;
 }
 
-div.wrapper-content aside.widgets .follow span img {
+div.wrapper-content aside.widgets .follow .find-friend span img {
   width: 18px;
   height: 18px;
   margin-right: 5px;
