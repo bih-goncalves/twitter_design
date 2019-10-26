@@ -298,11 +298,13 @@ div.wrapper-content aside.profile .images ul li {
 
 div.wrapper-content .timeline {
   flex: 1;
+  background: #ffffff;
+  margin: 10px 20px 0;
 }
 
 div.wrapper-content aside.widgets {
   width: 290px;
-  margin: 10px;
+  margin-top: 10px;
 }
 
 div.wrapper-content aside.widgets .widget {
